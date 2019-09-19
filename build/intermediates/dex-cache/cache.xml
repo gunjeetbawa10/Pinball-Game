@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\Vector-Pinball-master\app\libs\gdx.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5d9c38bff05d14dcb1e0726eded3bfa1cf6fedd2">
+        <dex dex="F:\Vector-Pinball-master\app\build\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Vector-Pinball-master\app\libs\gdx-box2d.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="faaaaed625a4d8f58ef9e1f47a3f1ac4ef628541">
+        <dex dex="F:\Vector-Pinball-master\app\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+
+</items>

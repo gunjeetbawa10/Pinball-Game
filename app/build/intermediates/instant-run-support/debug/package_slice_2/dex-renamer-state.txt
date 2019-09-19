@@ -1,0 +1,4 @@
+#Thu Aug 30 10:47:05 IST 2018
+base.0=F\:\\Vector-Pinball-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\21
+path.0=classes.dex
+renamed.0=classes.dex
